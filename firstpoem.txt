@@ -1,6 +1,7 @@
 Rainbow and Unicorn
 white
 black
+indigo
 blue
 unicorn
 red
