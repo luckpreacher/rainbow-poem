@@ -1,4 +1,4 @@
-Rainbow and Unicorn
+Rainbow and Unicorn and Pony
 white
 black
 blue
@@ -8,4 +8,4 @@ orange(first add)
 yellow
 purple(second added)
 green
-Rainbow and Unicorn
+Rainbow and Unicorn and Ponies
