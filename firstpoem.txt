@@ -1,8 +1,11 @@
+Rainbow and Unicorn
 white
 black
 blue
+unicorn
 red
 orange(first add)
 yellow
 purple(second added)
 green
+Rainbow and Unicorn
